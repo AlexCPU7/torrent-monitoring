@@ -1,0 +1,8 @@
+.idea
+.pytest_cache
+
+*.pyc
+*.sqlite3
+
+venv
+env
