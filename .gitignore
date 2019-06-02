@@ -6,4 +6,7 @@
 
 venv
 env
+.venv
+.env
+
 media
